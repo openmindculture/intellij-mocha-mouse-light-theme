@@ -1,5 +1,5 @@
 <idea-plugin url="https://github.com/openmindculture/intellij-cute-pink-dark-theme">
-    <name>Mocha Mouse Dark Theme</name>
+    <name>Mocha Mousse Dark Theme</name>
     <id>com.github.openmindculture.intellijmochamousedarktheme</id>
     <description>Mocha Mouse Dark Theme for IntelliJ Platform is inspired by Mocha Mousse, Pantone's Color of the Year 2025, based on openmindculture's Cute Pink Dark Theme.</description>
     <change-notes>Initial theme release. Basic theme functionality.</change-notes>
