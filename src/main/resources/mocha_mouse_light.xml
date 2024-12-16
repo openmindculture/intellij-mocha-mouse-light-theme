@@ -1,4 +1,4 @@
-<scheme name="mocca_mouse_dark" version="142" parent_scheme="Darcula">
+<scheme name="mocca_mouse_light" version="142" parent_scheme="Default">
     <colors>
         <option name="BACKGROUND" value="51301d" />
         <option name="GUTTER_BACKGROUND" value="a47864" />
@@ -6,8 +6,8 @@
     <attributes>
         <option name="TEXT">
             <value>
-                <option name="BACKGROUND" value="51301d" />
-                <option name="FOREGROUND" value="dcc5b5" />
+                <option name="BACKGROUND" value="a47864" />
+                <option name="FOREGROUND" value="51301d" />
             </value>
         </option>
     </attributes>

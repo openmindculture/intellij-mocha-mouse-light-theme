@@ -1,10 +1,10 @@
-# intellij-mocha-mouse-dark-theme
+# intellij-mocha-mouse-light-theme
 
-Mocha Mouse is another colorful dark theme for PhpStorm and other IntelliJ-based IDEs, inspired by Mocha Mousse, Pantone's color of the year 2025, based on openmindculture's Cute Pink Dark theme.
+Mocha Mouse is another colorful light theme for PhpStorm and other IntelliJ-based IDEs, inspired by Mocha Mousse, Pantone's color of the year 2025, based on openmindculture's Cute Pink light theme.
 
 **BETA: This theme is usable, but still unfinished!**
 
-If you like to support development, you can open a pull request [on GitHub](https://github.com/openmindculture/intellij-cute-pink-dark-theme).
+If you like to support development, you can open a pull request [on GitHub](https://github.com/openmindculture/intellij-cute-pink-light-theme).
 
 For JetBrains IDEs, version 2020.2 and above. Tested up to 2024.2.4 (242). It will probably work on older builds like 2019.1 as well, but untested.
 
@@ -13,7 +13,7 @@ To install:
 - (_or_ download from JetBrains Plugins page
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
-  [Report an issue](https://github.com/openmindculture/intellij-mocha-mouse-dark-theme/issues/new) | [on GitHub](https://github.com/openmindculture/intellij-mocha-mouse-dark-theme).
+  [Report an issue](https://github.com/openmindculture/intellij-mocha-mouse-light-theme/issues/new) | [on GitHub](https://github.com/openmindculture/intellij-mocha-mouse-light-theme).
 <!-- Plugin description end -->
 
 If you only want to install the theme, you do not need this repository.
@@ -34,4 +34,4 @@ In `build/distributions` there is a zip file that I can manually import into my 
 `npm run build`
 
 - requires `bash`/`sh`!
-- creates a `build/distributions/intellij-mocha-mouse-dark-theme-x.y.z.zip`
+- creates a `build/distributions/intellij-mocha-mouse-light-theme-x.y.z.zip`

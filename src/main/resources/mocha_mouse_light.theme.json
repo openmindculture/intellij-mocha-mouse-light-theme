@@ -1,8 +1,8 @@
 {
-  "name": "Mocha Mouse Dark",
+  "name": "Mocha Mouse Light",
   "dark": true,
   "author": "Ingo Steinke (openmindculture)",
-  "editorScheme": "/mocha_mouse_dark.xml",
+  "editorScheme": "/mocha_mouse_light.xml",
   "colors": {
     "mochaMousse": "#a47864",
     "blackishBrown": "#391704",
