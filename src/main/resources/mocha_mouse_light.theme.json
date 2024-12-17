@@ -1,10 +1,12 @@
 {
   "name": "Mocha Mouse Light",
-  "dark": true,
+  "dark": false,
   "author": "Ingo Steinke (openmindculture)",
   "editorScheme": "/mocha_mouse_light.xml",
   "colors": {
     "mochaMousse": "#a47864",
+    "lighterMousse": "#d1a28d",
+    "lightestFoam": "#eed5ae",
     "blackishBrown": "#391704",
     "darkLeather": "#471b03",
     "brownishFoam": "#ffc6a6",
@@ -18,16 +20,16 @@
   "ui": {
     "*": {
       "background": "mochaMousse",
-      "selectedBackground": "darkRedBrown",
+      "selectedBackground": "lighterMousse",
       "hoverBackground": "darkBrown",
       "foreground": "lightBeigePink",
-      "disabledText": "purpleLightText",
+      "disabledText": "lightBeigePink",
       "selectionBackground": "darkLeather",
       "selectionForeground": "brownishFoam",
       "underlineColor": "earthyMiddleBrown",
       "errorFocusColor": "earthyLighterTone"
     },
-    "Editor.background": "blackishBrown",
+    "Editor.background": "mochaMousse",
     "Button.default.foreground": "pinkLight",
     "Borders": {
       "color": "lightBeigePink",

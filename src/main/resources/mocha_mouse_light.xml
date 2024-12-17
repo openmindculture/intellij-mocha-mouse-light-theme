@@ -1,6 +1,6 @@
-<scheme name="mocca_mouse_light" version="142" parent_scheme="Default">
+<scheme name="mocca_mouse_lightv" version="142" parent_scheme="Default">
     <colors>
-        <option name="BACKGROUND" value="51301d" />
+        <option name="BACKGROUND" value="eed5ae" />
         <option name="GUTTER_BACKGROUND" value="a47864" />
     </colors>
     <attributes>

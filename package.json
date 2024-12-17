@@ -1,6 +1,6 @@
 {
   "name": "mocha-mouse-light-theme",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "theme for JetBrains IDE editors like PhpStorm or IntelliJ IDEA",
   "scripts": {
     "build": "./build.sh $npm_package_version"
