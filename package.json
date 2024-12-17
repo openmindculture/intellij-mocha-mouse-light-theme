@@ -1,7 +1,7 @@
 {
   "name": "mocha-mouse-light-theme",
-  "version": "0.5.0",
-  "description": "theme for JetBrains IDE editors like PhpStorm or IntelliJ IDEA",
+  "version": "0.6.0",
+  "description": "Mocha Mouse Light Theme for IntelliJ Platform is inspired by Mocha Mousse, Pantone's Color of the Year 2025, based on openmindculture's Cute Pink Light Theme. The theme uses brown, beige, chocolate, sand, and coffee (mocha, espresso) colors. The beta version has some unintended low color contrast cobinations, as a workaround, you can try selecting text to improve readability. Open source code and issues are available on GitHub.</description>\n    <change-notes>Initial theme release. Basic theme functionality.",
   "scripts": {
     "build": "./build.sh $npm_package_version"
   },

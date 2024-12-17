@@ -2,6 +2,10 @@
 
 # mocha-mouse-dark-theme Changelog
 
+## 0.6.0 - 2024-12-17
+### Fixed
+- update description and metadata
+
 ## 0.5.0 - 2024-12-17
 ### Fixed
 - switch to light editor theme
